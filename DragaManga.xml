@@ -1560,7 +1560,7 @@ window.addEventListener(&#39;scroll&#39;, function(e) {
                     <a class='block w-fit sm:text-2xl text-[5.5vw] font-bold'>
                         <data:blog.title/>                   </a>
                     <span class='font-medium'>
-                      Theme by <span>@<a href='https://itachisi.blogspot.com' target='_blank'>itachsi</a></span>
+                      Copyright &#169; <script>document.write(new Date().getFullYear())</script>
                     </span>
                 </div>
                 <button class='sm:px-5 px-[4vw] flex w-fit justify-center items-center h-11 gap-3 bg-rose-500 bg-opacity-70 hover:bg-opacity-100 transition-all cursor-pointer rounded-full' onclick='window.Feedmas.open({&quot;userName&quot;: &quot;Jan Doe&quot;, &quot;userEmail&quot;: &quot;jan@example.com&quot;, page: &quot;Profile&quot;, &quot;subscription&quot;: &quot;pro&quot;})'>
